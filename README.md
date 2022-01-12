@@ -7,6 +7,8 @@ I'm [Janaeshwar](https://janaesh1998.pythonanywhere.com/), a passionate self-tau
 - 👯 I’m looking to collaborate on python frameworks
 - 🤔 I’m looking for help in creating a CI/CD pipeline
 - 💬 Ask me any thing I' ready to share my knowledge
-- 📫 Reach me: janaeshkrish1998@gmail.com
+- 📫 Reach me: 
+      Mail: janaeshkrish1998@gmail.com
+      Web : [janaeshwar.com](https://janaesh1998.pythonanywhere.com/)
 
 
