@@ -9,6 +9,6 @@ I'm [Janaeshwar](https://janaesh1998.pythonanywhere.com/), a passionate self-tau
 - 💬 Ask me any thing I' ready to share my knowledge
 - 📫 Reach me: 
       Mail: janaeshkrish1998@gmail.com
-      Web : [janaeshwar.com](https://janaesh1998.pythonanywhere.com/)
+      LinkedIN : (Janaeshwar)[https://www.linkedin.com/in/janaeshwar-k-13a85618a/]
 
 
